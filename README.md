@@ -1,7 +1,6 @@
 # Simforge: What if a system for cognitively generating environments?
-
-**White Paper v1.0**
-**Author:** Rogério Figurelli
+**White Paper v1.0**  
+**Author:** Rogério Figurelli  
 **Date:** 2025-05-01
 
 ---
