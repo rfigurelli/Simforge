@@ -1,5 +1,3 @@
----
-
 # Simforge: What if a system for cognitively generating environments?
 
 **White Paper v1.0**
